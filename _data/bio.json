@@ -2,10 +2,10 @@
   "basics": {
     "name": "Noah Lorenzo",
     "label": "Student",
-    "picture": "https://NooaahWorks.github.io/images/molly.png",
+    "picture": "https://nooaahWorks.github.io/images/molly.png",
     "email": "noah.mt.lorenzo@gmail.com",
     "phone": "808-216-2608",
-    "website": "https://NooaahWorks.github.io",
+    "website": "https://nooaahWorks.github.io",
     "summary": " I am a student at Chaminade University of Honolulu in Environmental Science and Studies. I am expected to graduate in May 2022.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "NooaahWorks",
-        "url": "http://github.com/NooaahWorks"
+        "url": "http://github.com/nooaahWorks"
       },
       {
         "network": "instagram",
